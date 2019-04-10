@@ -1,4 +1,4 @@
-# TheHiveScripts
+# hive-reminder.py
 Hive Reminder a Python2.7 script to remind your fellow team members to close/remediate user defined past due cases to help with meeting compliance requirements.
 
 Requires the following:
