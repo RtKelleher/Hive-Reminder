@@ -1,6 +1,5 @@
 # TheHiveScripts
-Hive Reminder
-A Python2.7 script to remind your fellow team members to close/remediate user defined past due cases to help with meeting compliance requirements.
+Hive Reminder a Python2.7 script to remind your fellow team members to close/remediate user defined past due cases to help with meeting compliance requirements.
 
 Requires the following:
 * TheHive4py (https://github.com/TheHive-Project/TheHive4py) or pip/requirements.txt
