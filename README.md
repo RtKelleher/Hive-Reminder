@@ -10,3 +10,5 @@ Requires the following:
 * ignore_list (optional user ignore list)
 * domain (your domain)
 * msg.html (has afew areas to change and should be used as a template for your own email)
+
+Set weekly chron/profit
